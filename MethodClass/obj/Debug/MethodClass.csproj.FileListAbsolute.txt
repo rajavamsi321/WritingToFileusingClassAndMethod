@@ -1,0 +1,10 @@
+C:\Users\pavan\source\repos\MethodClass\MethodClass\bin\Debug\MethodClass.exe.config
+C:\Users\pavan\source\repos\MethodClass\MethodClass\bin\Debug\MethodClass.exe
+C:\Users\pavan\source\repos\MethodClass\MethodClass\bin\Debug\MethodClass.pdb
+C:\Users\pavan\source\repos\MethodClass\MethodClass\obj\Debug\MethodClass.csprojAssemblyReference.cache
+C:\Users\pavan\source\repos\MethodClass\MethodClass\obj\Debug\MethodClass.Form1.resources
+C:\Users\pavan\source\repos\MethodClass\MethodClass\obj\Debug\MethodClass.Properties.Resources.resources
+C:\Users\pavan\source\repos\MethodClass\MethodClass\obj\Debug\MethodClass.csproj.GenerateResource.cache
+C:\Users\pavan\source\repos\MethodClass\MethodClass\obj\Debug\MethodClass.csproj.CoreCompileInputs.cache
+C:\Users\pavan\source\repos\MethodClass\MethodClass\obj\Debug\MethodClass.exe
+C:\Users\pavan\source\repos\MethodClass\MethodClass\obj\Debug\MethodClass.pdb
